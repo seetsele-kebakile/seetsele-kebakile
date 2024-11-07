@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning OpenGl and Direct3D11
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : 
-               emails: seetsele.kebakile@maruapula.org
+               emails: kebakiles@cardiff.ac.uk
                        drforesterman@gmail.com
-               Phone: +26776976111
+               Phone: +26776976111 or 07856225703
 
 <!---
 seetsele-kebakile/seetsele-kebakile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
