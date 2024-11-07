@@ -3,9 +3,8 @@
 - 🌱 I’m currently learning OpenGl and Direct3D11
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : 
-               emails: kebakiles@cardiff.ac.uk
-                       drforesterman@gmail.com
-               Phone: +26776976111 or 07856225703
+               emails: kebakiles@cardiff.ac.uk or drforesterman@gmail.com
+               Phone: +26 776976111 or +44 7856225703
 
 <!---
 seetsele-kebakile/seetsele-kebakile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
