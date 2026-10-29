@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @seetsele-kebakile
 - 👀 I’m interested in Computer graphics
 - 📫 How to reach me : 
-               emails: kebakiles@cardiff.ac.uk or seetsele.kebakile@gmail.com
+               emails: twdd07@durham.ac.ik or seetsele.kebakile@gmail.com
                Phone: +267 76976111 or +44 7856225703
 
 <!---
